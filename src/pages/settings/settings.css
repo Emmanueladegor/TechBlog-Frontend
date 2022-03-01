@@ -1,0 +1,22 @@
+.profile-size{
+    height: 8vw;
+    width: 8vw;
+    object-fit: cover;
+    border-radius:50%;
+}
+
+.cursor-pointer {
+    cursor:pointer;
+}
+
+.settings-header-font {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.settings-form-font {
+    font-family: 'Varela', sans-serif;
+}
+
+.settings-icon-size {
+    font-size: 25px;
+}

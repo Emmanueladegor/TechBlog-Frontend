@@ -1,0 +1,10 @@
+.login,.login-bg-image {
+    min-height: 100vh
+}
+
+.login-bg-image{
+    background: #000 url('../../assets/image/hero-image.jpg') no-repeat center center;
+    /* background: #000 url('https://res.cloudinary.com/dxfq3iotg/image/upload/v1561631318/img-123.jpg') no-repeat center center; */
+    background-size: cover;
+    background-position: center center;
+}

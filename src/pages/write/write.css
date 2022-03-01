@@ -1,0 +1,23 @@
+.cursorPointer {
+    cursor: pointer;
+}
+
+.no-border{
+    border: none;
+    border-color: transparent !important;
+}
+
+.no-border:focus {
+    outline: none;
+    border-color: transparent !important;
+}
+
+.write-font {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 200;
+    font-size:xx-large;
+}
+
+.write-btn-font{
+    font-family: 'Varela', sans-serif;
+}
